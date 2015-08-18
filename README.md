@@ -28,6 +28,10 @@ Time
 ----
 Specifying a time is not officially supported because the time zone is ignored currently. However, it seems like Dropbox always uses UTC, so you can try specifying UTC times at your own risk by specifying the date and time in the format YYYY-MM-DD-HH-MM-SS on the command line. Be warned that Dropbox's documentation does not guarantee that they will always use UTC, so this can break at any time.
 
+-Donations
+----------
+-If you would like to make a donation, you can use the PayPal button on my website: http://cclark.me
+
 
 #Trying to port this to Python3:
 many errors and some architectual issues.
