@@ -33,7 +33,17 @@ Specifying a time is not officially supported because the time zone is ignored c
 -If you would like to make a donation, you can use the PayPal button on my website: http://cclark.me
 
 
-#Trying to port this to Python3:
+
+Useful
+-------
+
+* Setup Python https://www.python.org/downloads/
+* Get an App Key https://www.dropbox.com/developers/core/start/python
+
+
+
+###Trying to port this to Python3:
+----------------------------------
 many errors and some architectual issues.
 
     192:Development dylan$ cd dropbox-restore
